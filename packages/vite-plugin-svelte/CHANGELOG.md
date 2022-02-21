@@ -1,5 +1,11 @@
 # @sveltejs/vite-plugin-svelte
 
+## 1.0.0-next.38
+
+### Patch Changes
+
+- don't warn if dependency doesn't export package.json ([#272](https://github.com/sveltejs/vite-plugin-svelte/pull/272))
+
 ## 1.0.0-next.37
 
 ### Patch Changes
